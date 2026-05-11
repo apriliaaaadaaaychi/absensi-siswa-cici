@@ -54,13 +54,13 @@ if (isset($_POST['update'])) {
             margin-top: 15px;
             padding: 10px;
             width: 100%;
-            background: #a7288c;
+            background: #00ff88;
             color: white;
             border: none;
             cursor: pointer;
         }
         button:hover {
-            background: #88216e;
+            background: #ffffff;
         }
     </style>
 </head>
